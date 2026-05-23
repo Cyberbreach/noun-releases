@@ -14,4 +14,4 @@ L'app vérifie périodiquement la dernière release de ce repo et propose
 la mise à jour automatique sans passer par un store.
 
 ## Contact
-DJABER · SOUK AHRAS · Hemaidia Electronics · 0560 11 80 52
+
